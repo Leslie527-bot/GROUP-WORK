@@ -3,5 +3,5 @@ window.addEventListener('DOMContentLoaded', () => {
     console.log("La page de Leslie est prête !");
     
     // Exemple d'interactivité : Un message de bienvenue
-    alert("Bienvenue sur la page de Leslie - Groupe N°[Votre Numéro]");
+    alert("Bienvenue sur la page de Leslie - Groupe N°4");
 });
